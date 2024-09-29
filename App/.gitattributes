@@ -1,0 +1,2 @@
+*pkl filter=lfs diff=lfs merge=lfs -text
+D:/Sem-7/SDP-II/Movie-Recommender-System/App/similarity.pkl filter=lfs diff=lfs merge=lfs -text
